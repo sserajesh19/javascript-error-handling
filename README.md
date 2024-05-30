@@ -3,17 +3,6 @@
 
 Error handling is an essential part of writing robust and resilient JavaScript applications. This README will guide you through various techniques and best practices for managing errors in JavaScript.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Types of Errors](#types-of-errors)
-3. [Try...Catch Statement](#trycatch-statement)
-4. [Throwing Errors](#throwing-errors)
-5. [Custom Error Types](#custom-error-types)
-6. [Error Handling in Asynchronous Code](#error-handling-in-asynchronous-code)
-7. [Best Practices](#best-practices)
-8. [Conclusion](#conclusion)
-
 ## Introduction
 
 Error handling in JavaScript is a powerful tool for managing exceptions and ensuring your code can gracefully recover from unexpected issues. Proper error handling enhances the user experience and makes debugging easier.
